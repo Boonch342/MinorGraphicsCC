@@ -1,3 +1,6 @@
 # MinorGraphicsCC
 For now, this is just images
-And now I added other stuff
+// ******
+Now I added more stuff
+// ******
+Okay Grandmas are done
