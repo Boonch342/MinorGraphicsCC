@@ -30,7 +30,6 @@ Game.registerMod("cws-uniqueGrandmas", {
 		Game.Achievements['Just wrong'].icon = [9,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
 		Game.Achievements['Elder'].icon = [6,0,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
 		Game.Achievements['Veteran'].icon = [3,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
-		Game.Achievements['The elder scrolls'].icon = [8,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
 		Game.Achievements['Baby it\'s old outside'].icon = [7,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
 		Game.Achievements['In her likeness'].icon = [10,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
 
