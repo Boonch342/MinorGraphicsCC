@@ -1,0 +1,6 @@
+Game.registerMod("cws-betterPoker", {
+	init: function() {
+
+		Game.Achievements['Wrinkler poker'].icon = [0, 0,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/poked.png'];
+	}
+});
