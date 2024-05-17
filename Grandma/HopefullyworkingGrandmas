@@ -2,9 +2,6 @@ Game.registerMod("cws-uniqueGrandmas", {
 	init: function() {
 
 		
-		// notification!
-		Game.Notify(`Unique Grandmas Loaded`, `Moister that ever.`, [10,9],10,1);
-		
 		// upgrade icons
 		Game.Upgrades['Farmer grandmas'].icon = [0,0,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
 		Game.Upgrades['Miner grandmas'].icon = [1,0,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/coolGrannies.png'];
