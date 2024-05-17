@@ -1,0 +1,2 @@
+Game.Upgrades['Basic wallpaper assortment'].icon = [0,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Wallpapers/icons.png'];
+Game.Upgrades['Distinguished wallpaper assortment'].icon = [1,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Wallpapers/icons.png'];
