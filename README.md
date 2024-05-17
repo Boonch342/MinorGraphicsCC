@@ -1,4 +1,2 @@
 # MinorGraphicsCC
-For now, this is just images-----
-Now I added more stuff-----
-Okay Grandmas are done
+Now there's the Eldeer, Grandmas, Wrinklers and trios, as well as the others and the pilk if I ever use it
