@@ -1,0 +1,10 @@
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Eldeer/Eldeer%20Insert");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Grandma/HopefullyworkingGrandmas");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/moreBackrounds/even%20more%20backgrounds(fixed)");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/moreBackrounds/ChangeIcons");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/poked/pokedcode");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/tripleachievs/tripachievcode");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/changeTrueNever%26Uncanny");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/others/BuildingPillarsStuff");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/others/FixRaspberryButterBiscut");
+Game.LoadMod("https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/others/Jellicles");
