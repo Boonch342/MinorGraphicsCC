@@ -21,7 +21,7 @@ Game.registerMod("cws-uniqueGrandmas", {
 		Game.Upgrades['Alternate grandmas'].icon = [5,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Grandma/coolGrannies.png'];
 		Game.Upgrades['Brainy grandmas'].icon = [6,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Grandma/coolGrannies.png'];
 		Game.Upgrades['Clone grandmas'].icon = [10,0,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Grandma/coolGrannies.png'];
-		Game.Upgrades['Banker grandmas'].icon = [0,0,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/iconGrandmonocle.png'];
+		Game.Upgrades['Banker grandmas'].icon = [0,0,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/others/iconGrandmonocle.png'];
 		
 		// achievement icons
 		Game.Achievements['Just wrong'].icon = [9,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Grandma/coolGrannies.png'];
@@ -31,6 +31,6 @@ Game.registerMod("cws-uniqueGrandmas", {
 		Game.Achievements['In her likeness'].icon = [10,1,'https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Grandma/coolGrannies.png'];
 
 		// bank grandma
-		Game.Loader.Replace('bankGrandma.png','https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/bankGrandmonocle.png');
+		Game.Loader.Replace('bankGrandma.png','https://raw.githubusercontent.com/Boonch342/MinorGraphicsCC/main/Grandma/bankGrandmonocle.png');
 		}
 });
