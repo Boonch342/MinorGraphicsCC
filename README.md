@@ -7,3 +7,5 @@ Also I forgor to name any of the code ".js" at the end so an unlabled file is co
 Womp womp     
 
 Okay now I'm adding the "more wallpapers"
+
+I think I'm done now
