@@ -9,3 +9,5 @@ Womp womp
 Okay now I'm adding the "more wallpapers"
 
 I think I'm done now
+
+Nevermind I'll just heep adding images here for use in the actual github page (CCgraphics)
